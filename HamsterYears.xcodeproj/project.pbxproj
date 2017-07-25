@@ -12,6 +12,7 @@
 		9BD3644C1F27A3C8001E9757 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BD3644A1F27A3C8001E9757 /* Main.storyboard */; };
 		9BD3644E1F27A3C8001E9757 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BD3644D1F27A3C8001E9757 /* Assets.xcassets */; };
 		9BD364511F27A3C8001E9757 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BD3644F1F27A3C8001E9757 /* LaunchScreen.storyboard */; };
+		9BD364591F27BFB2001E9757 /* Hamster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9BD364581F27BFB2001E9757 /* Hamster.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9BD3644D1F27A3C8001E9757 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BD364501F27A3C8001E9757 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BD364521F27A3C8001E9757 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BD364581F27BFB2001E9757 /* Hamster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hamster.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				9BD364461F27A3C8001E9757 /* AppDelegate.swift */,
 				9BD364481F27A3C8001E9757 /* ViewController.swift */,
 				9BD3644A1F27A3C8001E9757 /* Main.storyboard */,
+				9BD364581F27BFB2001E9757 /* Hamster.jpg */,
 				9BD3644D1F27A3C8001E9757 /* Assets.xcassets */,
 				9BD3644F1F27A3C8001E9757 /* LaunchScreen.storyboard */,
 				9BD364521F27A3C8001E9757 /* Info.plist */,
@@ -125,6 +128,7 @@
 			files = (
 				9BD364511F27A3C8001E9757 /* LaunchScreen.storyboard in Resources */,
 				9BD3644E1F27A3C8001E9757 /* Assets.xcassets in Resources */,
+				9BD364591F27BFB2001E9757 /* Hamster.jpg in Resources */,
 				9BD3644C1F27A3C8001E9757 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
